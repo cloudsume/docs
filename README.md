@@ -5,7 +5,15 @@ This repository contains the source of documentation for people who are interest
 ## Prerequisites
 
 - *nix system
-- Sphinx
+- [Sphinx](https://www.sphinx-doc.org)
+- Visual Studio Code
+  - [Esbonio](https://marketplace.visualstudio.com/items?itemName=swyddfa.esbonio)
+
+### Install required packages
+
+```sh
+pip install -r requirements.txt
+```
 
 ## License
 
